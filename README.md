@@ -1,18 +1,18 @@
-### 我的博客
+﻿ ### 使用条件
 
-地址：[http://yansu.org](http://yansu.org)
+Jekyll 支持 Mac 、Windows、ubuntu 、Linux 操作系统                     
+Jekyll 需要依赖：Ruby、bundler
 
-### 安装说明
 
-1. fork库到自己的github
-2. 修改名字为：`username.github.io`
-3. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
-4. 修改CNAME，或者删掉这个文件，使用默认域名
-5. 修改`_config.yml`配置项
-6. It's done!
+#### 安装Jekyll
 
-### 分支说明
+[Jekyll中文官方文档](http://jekyll.bootcss.com/) ， 如果你已经安装过了 Jekyll，可以忽略此处。
 
-- 三栏布局（master分支，基于[3-Jekyll](https://github.com/P233/3-Jekyll)）
-- 三栏布局 (bootstrap-based分支，基于Bootstrap)
-- 单栏布局（first-ui分支，基于Bootstrap）
+> $ gem install jekyll
+
+#### 获取博客模板
+
+> $ git clone https://github.com/myPirlo/myPirlo.github.io.git
+
+
+2018/8/02  更新
