@@ -1,12 +1,12 @@
 # Basic
-title: 邢军
+title: 天明
 subtitle: 个人博客
 description: 愿走过半生 归来仍是少年
 # 头像里面的标题
-avatarTitle: myPirlo
+avatarTitle: tianming
 # 头像里面的描述
-avatarDesc: 前端开发工程师
-url: "https://webfdh.com"
+avatarDesc: 一个想体验拨云开日见天明的人
+
 
 # Comment
 comment:
@@ -14,8 +14,8 @@ comment:
 
 # Social
 social:
-  github: myPirlo
-  mail: 871235509@qq.com
+  github: scar119
+  mail: 1157120262@qq.com
 
 # 百度统计
 # 使用博客模板请去掉或者更换 id
